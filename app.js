@@ -1,5 +1,5 @@
 const cheiros = [
-  "leite Creme","leite azedo","leite achocolatado","leite condensado",
+  "leite creme","leite azedo","leite achocolatado","leite condensado",
   "presunto curado",
   "veneno para ratos",
   "maçãs podres",
