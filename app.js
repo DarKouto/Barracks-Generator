@@ -8,14 +8,17 @@ const cheiros = [
   "pickles",
   "WC Pato",
   "fiambre da perna extra",
-  "queijo da serra","queijo Flamengo",
+  "queijo da serra","queijo flamengo","requeijão",
   "pão recesso","pão de forma","pão rústico",
   "coentros estragados",
   "bacalhau fora do prazo",
   "framboesa podre",
   "beterraba",
   "tremoços secos",
-  "merda fossilizada"
+  "merda fossilizada",
+  "mijo de camelo",
+  "foda",
+  "esperma de cavalo"
 ];
 const locais = [
   "da cabeça",
@@ -45,12 +48,14 @@ const locais = [
   "das costas",
   "dos mamilos",
   "do umbigo",
-  "do cu",
+  "do cu","do olho do cu","das bordas do cu","do rego do cu",
+  "do intestino grosso",
   "das pernas",
   "dos joelhos",
   "das coxas",
   "dos gémeos",
-  "dos tornozelos"
+  "dos tornozelos",
+  "dos pés"
 ];
 
 botao = document.getElementById('botao');
